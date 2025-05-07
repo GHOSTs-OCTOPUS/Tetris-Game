@@ -47,7 +47,7 @@ Your goal is to complete horizontal lines with no gaps. When a line is complete,
 Try to achieve the highest score and challenge your friends!
 
 ## Contributing
-If you would like to contribute to this project, feel free to submit issues, feature requests, or pull requests on the [GitHub repository](https://github.com/GHOSTs-OCTOPUS).
+If you would like to contribute to this project, feel free to submit issues, feature requests, or pull requests on the [GitHub repository](https://github.com/GHOSTs-OCTOPUS/Tetris-Game.git).
 Please follow the standard guidelines for contributing to open-source projects.
 Thank you for your interest in this project!
 
